@@ -13,6 +13,7 @@ set shiftwidth=4
 set expandtab
 :imap jk <Esc>
 
+" Highlight column 80 for text boundary
 set colorcolumn=80
 highlight ColorColumn ctermbg=gray
 
