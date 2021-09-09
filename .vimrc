@@ -26,8 +26,8 @@ nnoremap <Leader>o o<Esc>
 nnoremap <Leader>O O<Esc>
 
 " Pathogen is a thing for managing packages https://github.com/tpope/vim-pathogen
-execute pathogen#infect()
+" execute pathogen#infect()
 
 " Nerdcommenter settings https://github.com/scrooloose/nerdcommenter
 " Add spaces after comment delimiters by default
-let g:NERDSpaceDelims = 1
+" let g:NERDSpaceDelims = 1
