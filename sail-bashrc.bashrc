@@ -13,6 +13,6 @@ IGNOREEOF=4
 # screen -ls        # list sesions 
 # screen -r s1      # reattach to s1
 
-
+# prevents `cat > fname` accidentally overwriting existing files. Can still use with `cat >| fname`
 set -o noclobber.
 
