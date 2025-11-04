@@ -14,4 +14,5 @@ IGNOREEOF=4
 # screen -r s1      # reattach to s1
 
 
+set -o noclobber.
 
